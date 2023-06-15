@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shubham-bitcot/static/css/main.4d60c918.css",
+    "main.js": "/Shubham-bitcot/static/js/main.0d548afe.js",
+    "index.html": "/Shubham-bitcot/index.html",
+    "main.4d60c918.css.map": "/Shubham-bitcot/static/css/main.4d60c918.css.map",
+    "main.0d548afe.js.map": "/Shubham-bitcot/static/js/main.0d548afe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d60c918.css",
+    "static/js/main.0d548afe.js"
+  ]
+}
